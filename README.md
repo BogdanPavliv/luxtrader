@@ -1,4 +1,4 @@
-## Верстка сайту Portfolio
+## Верстка сайту Luxtrader
 
 - git,
 - figma, optimized graphics, svg where it is possible,
